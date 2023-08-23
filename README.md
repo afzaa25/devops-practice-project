@@ -1,4 +1,4 @@
-# devops-practice-project
+# Devops Practice Project
 
 Putting all my DevOps knowledge into practice in this repo!
 
